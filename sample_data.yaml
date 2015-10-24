@@ -1,0 +1,6 @@
+---
+    city : "{{city}}"
+    address: "{{address}}"
+    company: "{{company}}"
+    email : "{{free_email}}"
+    content : "{{paragraph}}"
